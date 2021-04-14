@@ -1,0 +1,17 @@
+body{
+    background-image: url("../../baller.jfif") ;
+    background-size:1920px 1080px;
+}
+
+img{
+    width: 500px;
+    border-radius: 20%;
+}
+
+h1 {color: rgb(171, 201, 100);
+
+}
+
+p {
+    color:rgb(175, 197, 95)
+}

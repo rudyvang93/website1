@@ -1,0 +1,11 @@
+body{
+    background-image: url("../../balling.jfif") ;
+    background-size:1920px 1080px;
+}
+h1{
+    color: khaki;
+}
+
+img{
+    border-radius: 20%;
+}

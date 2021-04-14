@@ -1,0 +1,14 @@
+
+body{
+    background-image: url("../../hoop.jpg") ;
+    background-size: 100%;
+}
+
+h1{
+    color: khaki
+}
+
+.topnav{
+    overflow:hidden;
+    background: linear-gradient( 90deg, rgba(2))
+}
